@@ -1,12 +1,6 @@
 # linewatch
 LineWatch是一款主打wifi、蓝牙连接和集成众多传感器的可编程手表。以micropython语言为基础构建手表的软件系统。当前已实现时钟、闹钟、罗盘、天气、应用和设置等主要功能。其中应用部分依托于iotbbs平台，可以实现自制应用的创建、发布，手表端可以浏览应用市场的应用、下载、安装、运行等功能，实现了类似智能手机的功能。
 
-## 视频
-
-[B站](https://www.bilibili.com/video/BV18a411A7uZ/)
-
-[西瓜](https://www.ixigua.com/6887824569386828302?logTag=Ikjudec_gHl5ur7TuW5dZ)
-
 ## 硬件
 
 [原理图链连接地址](https://iotbbs.vip/download)
