@@ -9,7 +9,7 @@ LineWatch是一款主打wifi、蓝牙连接和集成众多传感器的可编程�
 
 ## 硬件
 
-[原理图链连接地址](https://iotbbs.vip)
+[原理图链连接地址](https://iotbbs.vip/download)
 
 - esp32-d4-pico集成4MB的flash，wifi，蓝牙
 - 实时时钟bm8530
